@@ -1,0 +1,5 @@
+# Blocks YouTube (all content, not ads specifically)
+# License: MIT
+# Feedback: see https://github.com/suterma/pihole-blocklist
+
+www.youtube.com
