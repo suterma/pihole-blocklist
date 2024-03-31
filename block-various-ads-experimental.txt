@@ -6,3 +6,4 @@
 ||adsafeprotected.com^
 ||brandmetrics.com^
 ||criteo.com^
+||doubleclick.net^
