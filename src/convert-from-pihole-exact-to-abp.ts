@@ -6,7 +6,7 @@
 
 import { readFileSync, writeFileSync } from 'fs';
 import { ExactDomainListEntry } from '../types/ExactDomainListEntry';
-const blocklist: ExactDomainListEntry[] = JSON.parse(readFileSync("./../testdata/blacklist.exact.json", "utf8"));
+const blocklist: ExactDomainListEntry[] = JSON.parse(readFileSync("./testdata/blacklist.exact.json", "utf8"));
 const blockSecondLevelDomains = blocklist.map((entry) => extractSecondLevelDomain(entry.domain));
 
 const uniqueBlockSecondLevelDomains = [...new Set(blockSecondLevelDomains)]
@@ -17,7 +17,7 @@ const blockDomainsAdblockPlus =
   .map((domain) => '||'+ domain + '^')
   .join('\n');
 
-writeFileSync('./../testdata/blacklist.adblockplus.txt', blockDomainsAdblockPlus);
+writeFileSync('./testdata/blacklist.adblockplus.txt', blockDomainsAdblockPlus);
 
 console.log(blockDomainsAdblockPlus);
 

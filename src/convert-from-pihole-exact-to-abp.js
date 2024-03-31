@@ -6,14 +6,14 @@
  */
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
-const blocklist = JSON.parse((0, fs_1.readFileSync)("./../testdata/blacklist.exact.json", "utf8"));
+const blocklist = JSON.parse((0, fs_1.readFileSync)("./testdata/blacklist.exact.json", "utf8"));
 const blockSecondLevelDomains = blocklist.map((entry) => extractSecondLevelDomain(entry.domain));
 const uniqueBlockSecondLevelDomains = [...new Set(blockSecondLevelDomains)];
 const blockDomainsAdblockPlus = uniqueBlockSecondLevelDomains
     .sort()
     .map((domain) => '||' + domain + '^')
     .join('\n');
-(0, fs_1.writeFileSync)('./../testdata/blacklist.adblockplus.txt', blockDomainsAdblockPlus);
+(0, fs_1.writeFileSync)('./testdata/blacklist.adblockplus.txt', blockDomainsAdblockPlus);
 console.log(blockDomainsAdblockPlus);
 function extractSecondLevelDomain(domain) {
     return domain.split('.').slice(-2).join('.');
