@@ -247,10 +247,7 @@
 ||go4media.ch^
 ||goldbachmobile.com^
 ||google-analytics.com^
-||google.ch^
-||google.com^
 ||googleadservices.com^
-||googleapis.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -387,7 +384,6 @@
 ||ne.jp^
 ||nel.goog^
 ||netbiscuits.net^
-||netflix.com^
 ||netgear.com^
 ||netzathleten-media.de^
 ||newgrounds.com^
