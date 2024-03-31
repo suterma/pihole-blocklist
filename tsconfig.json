@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "target": "ES2017",
+      "moduleResolution": "NodeNext",
+      "noImplicitAny": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["**/*.spec.ts"]
+}

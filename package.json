@@ -4,6 +4,7 @@
   "description": "Blocklists and tools for the Pihole",
   "main": "index.js",
   "scripts": {
+    "build": "npx tsc -watch -p .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,5 +29,8 @@
   "homepage": "https://github.com/suterma/pihole-blocklist#readme",
   "dependencies": {
     "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.2"
   }
 }
