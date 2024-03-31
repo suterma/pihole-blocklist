@@ -1,0 +1,8 @@
+# Blocks various ads by "simple wildcard notation" (NOTE: This is experimental)
+# License: MIT
+# Feedback: see https://github.com/suterma/pihole-blocklist
+# See also: https://discourse.pi-hole.net/t/is-there-an-easy-way-to-publish-a-regex-blacklist/63224
+
+||adsafeprotected.com^
+||brandmetrics.com^
+||criteo.com^
