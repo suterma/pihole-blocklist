@@ -131,7 +131,6 @@
 ||clickercenter.com^
 ||clickfuse.com^
 ||cliqz.com^
-||cloudfront.net^
 ||cloudygirls.com^
 ||cn^
 ||com.home^
@@ -297,7 +296,6 @@
 ||iqm.de^
 ||iqzone.com^
 ||ivoox.com^
-||izatcloud.net^
 ||jangonetwork.com^
 ||joophesh.com^
 ||junbi-tracker.com^
