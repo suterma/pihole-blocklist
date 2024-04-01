@@ -558,8 +558,6 @@
 ||tfag.de^
 ||theadex.com^
 ||thebrighttag.com^
-||tiktokcdn.com^
-||tiktokv.com^
 ||tinylabproductions.com^
 ||tiqcdn.com^
 ||tokenads.com^
