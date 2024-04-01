@@ -352,7 +352,6 @@
 ||megapornx.com^
 ||metalsmith.io^
 ||metalyzer.com^
-||meteoswiss-app.ch^
 ||metrigo.com^
 ||miniclippt.com^
 ||mixpanel.com^
@@ -423,7 +422,6 @@
 ||picxxxhub.com^
 ||pillpack.com^
 ||pinimg.com^
-||pinterest.com^
 ||playhaven.com^
 ||plentymarkets.com^
 ||plista.com^
@@ -522,7 +520,6 @@
 ||stickyadstv.com^
 ||stonenudes.com^
 ||stormiq.com^
-||strava.com^
 ||streamboatserver.ch^
 ||stroeerdigitalgroup.de^
 ||stroeerdp.de^
@@ -531,12 +528,10 @@
 ||sweetloversclub.com^
 ||swiflet.com^
 ||swiftkey.com^
-||swisscom.ch^
 ||switchadhub.com^
 ||switchads.com^
 ||symcb.com^
 ||symcd.com^
-||synology.com^
 ||t-online.de^
 ||t-r-f-k.com^
 ||t4ft.de^
@@ -544,8 +539,6 @@
 ||tagcommander.com^
 ||tamedia.click^
 ||tapad.com^
-||tda.io^
-||tda.link^
 ||teads.tv^
 ||technical-service.net^
 ||technoratimedia.com^
@@ -563,17 +556,13 @@
 ||trafficmanager.net^
 ||travelescapes.ch^
 ||trbo.com^
-||trendmicro.com^
 ||tripple.at^
 ||trustarc.com^
 ||tubia.com^
-||tumblr.com^
 ||turn.com^
 ||tv1.li^
 ||tvo-online.ch^
-||ubuntu.com^
 ||umzugsauktion.de^
-||unity3d.com^
 ||urbanairship.com^
 ||usabilla.com^
 ||usercentrics.eu^
@@ -585,7 +574,6 @@
 ||verkaufen.ch^
 ||virginity.trade^
 ||visoon.de^
-||visualstudio.com^
 ||vk.com^
 ||voiceforeurope.eu^
 ||vtracy.de^
@@ -593,7 +581,6 @@
 ||w3snoop.com^
 ||walden-magazin.de^
 ||wanna.by^
-||wattpad.com^
 ||wbtrk.net^
 ||weather.com^
 ||webmaker.org^
@@ -635,7 +622,6 @@
 ||zalan.do^
 ||zanox.com^
 ||zappos.com^
-||zdf.de^
 ||zedo.com^
 ||zemanta.com^
 ||zeustechnology.com^
