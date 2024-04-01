@@ -208,7 +208,6 @@
 ||eyeviewads.com^
 ||fabric.com^
 ||fallingfalcon.com^
-||fastly.net^
 ||fbsbx.com^
 ||fidelity-media.com^
 ||finanzen.net^
@@ -255,7 +254,6 @@
 ||grou.vi^
 ||grouvi.im^
 ||gstatic.com^
-||guardianapis.com^
 ||guenstiger-telefonsex.org^
 ||gujmedia.de^
 ||gumgum.com^
