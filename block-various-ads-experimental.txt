@@ -180,8 +180,6 @@
 ||eastdane.com^
 ||econda-monitor.de^
 ||edgeads.org^
-||edgekey.net^
-||edgesuite.net^
 ||edtabs-online24h.com^
 ||eglin.ch^
 ||elektrobike-online.com^
