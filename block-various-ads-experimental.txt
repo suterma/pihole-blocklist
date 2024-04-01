@@ -338,7 +338,6 @@
 ||loggly.com^
 ||lokalise.co^
 ||luka.de^
-||mapbox.com^
 ||marketingcloudapis.com^
 ||marketo.com^
 ||mathtag.com^
