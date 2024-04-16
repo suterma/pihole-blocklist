@@ -5,7 +5,7 @@ Note that theses lists may contain [AdblockPlus (ABP) domains](https://adblockpl
 
 # Lists
 
-This repository contains various ready-to use and experimental blocklists in the ```\list\``` folder. To use with the Pihole, import them via the "Adlists" menu, in the form e.g.
+This repository contains various ready-to use and experimental blocklists in the `\list\` folder. To use with the Pihole, import them via the "Adlists" menu, in the form e.g.
 
     https://raw.githubusercontent.com/suterma/pihole-blocklist/main/list/block-youtube-content.txt
 
