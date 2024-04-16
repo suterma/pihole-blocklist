@@ -1,0 +1,7 @@
+# Blocks Spotify video content (not ads specifically)
+# License: MIT
+# Feedback: see https://github.com/suterma/pihole-blocklist
+
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-fa.scdn.co
