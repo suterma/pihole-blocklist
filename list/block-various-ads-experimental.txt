@@ -166,7 +166,6 @@
 ||digisol.ch^
 ||discordapp.com^
 ||disney-plus.net^
-||disqus.com^
 ||districtm.io^
 ||dlvr.it^
 ||dogbytegames.com^
