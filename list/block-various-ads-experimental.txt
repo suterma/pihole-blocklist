@@ -84,7 +84,6 @@
 ||axelspringer-mediapilot.de^
 ||axonvibelabs.com^
 ||azblowjobtube.com^
-||azure.com^
 ||b-cdn.net^
 ||b1smarttv.com^
 ||baidu.com^
@@ -316,7 +315,6 @@
 ||legolas-media.com^
 ||lesbonscomptes.com^
 ||lexity.com^
-||licdn.com^
 ||liebeakt.com^
 ||liebenswert-magazin.de^
 ||ligadx.com^
@@ -398,7 +396,6 @@
 ||opecloud.com^
 ||openx.net^
 ||opinary.com^
-||optimizely.com^
 ||orderrxtabsonline.com^
 ||org.ec^
 ||oriori.com^
